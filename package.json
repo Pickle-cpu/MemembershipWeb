@@ -9,6 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@aws-amplify/ui-react": "^4.6.4",
+    "@fontsource/inter": "^5.0.1",
+    "@stripe/stripe-js": "^1.53.0",
+    "aws-amplify": "^5.2.4",
     "eslint": "8.41.0",
     "eslint-config-next": "13.4.4",
     "next": "13.4.4",
